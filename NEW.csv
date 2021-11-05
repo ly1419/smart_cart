@@ -1,4 +1,5 @@
-sno,name,price ,weight
-123,chocolate,100,100 gm
-124,rice,1150,1 kg
-125,wheat,7,500g
+code,name,price ,weight
+1,bottle,20,1000 ml
+2,rice,1150,1 kg
+3,wheat,7,500g
+4,green lays,30,250 gm
