@@ -1,8 +1,8 @@
 code,name,price ,weight
-1,bottle,20,1000 ml
-4,battery,2000,900 gm
-3,notebook,40,330 gm
+1,bottle,20,980 ml
 2,green lays,30,250 gm
+3,notebook,40,300 gm
+4,battery,2000,900 gm
 5,biscuit,20,200 gm
 6,chocolate,40,50 gm
 7,chill powder,50,200 gm
