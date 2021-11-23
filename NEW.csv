@@ -2,10 +2,10 @@ code,name,price ,weight
 1,bottle,20,840 ml
 2,green lays,30,250 gm
 3,notebook,40,300 gm
-4,battery,2000,2020 gm
-5,TOTAL:,2060 rs,2040 gm
+9,battery,2000,2020 gm
+10,TOTAL:,2060 rs,2040 gm
 6,chocolate,40,50 gm
 7,chill powder,50,200 gm
 8,sugar,25,250 gm
-9,salt,20,1000 gm
-10,bread,15,750 gm
+,salt,20,1000 gm
+,bread,15,750 gm
